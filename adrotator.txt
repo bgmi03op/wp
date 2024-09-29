@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>raze.jpg</ImageUrl>
+    <NavigateUrl>https://images.app.goo.gl/2DvSLbWNhzM3yTc1A</NavigateUrl>
+    <AlternateText>
+      Order flowers, roses, gifts and more
+    </AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>flowers</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>yoru.jpg</ImageUrl>
+    <NavigateUrl>http://www.babybouquets.com.au</NavigateUrl>
+    <AlternateText>Order roses and flowers</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>gifts</Keyword>
+  </Ad>
+ 
+</Advertisements>

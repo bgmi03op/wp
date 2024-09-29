@@ -1,0 +1,11 @@
+using System; 
+class ExampleForEach 
+{ 
+public static void Main() 
+{ 
+string[] str = { "Shield", "Evaluation", "DX" }; 
+foreach (String s in str) 
+{ 
+Console.WriteLine(s); 
+} 
+}

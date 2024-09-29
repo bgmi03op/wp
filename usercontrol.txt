@@ -1,0 +1,6 @@
+.aspx
+<%@Register src="WebUserControl1.ascx" TagName="WebUserControl" TagPrefix="uc1" %>
+
+
+
+<uc1:WebUserControl runat="server" id="WebUserControl1">

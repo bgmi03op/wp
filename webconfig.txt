@@ -1,0 +1,12 @@
+validate control
+<appSettings>
+  <add key="ValidationSettings:UnobtrusiveValidationMode" value="None" />
+ </appSettings>
+
+
+sitemap
+<siteMap>
+<providers>
+<remove name="MySqlSiteMapProvider" />
+</providers>
+</siteMap>
